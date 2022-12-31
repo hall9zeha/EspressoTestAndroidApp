@@ -1,5 +1,5 @@
-# ExpressoTestAndroidApp
- Simple app for unit and instrumented testing with JUnit4 and Expresso on Android
+# EspressoTestAndroidApp
+ Simple app for unit and instrumented testing with JUnit4 and Espresso on Android
 
 
 # Se utilizó :gear:
