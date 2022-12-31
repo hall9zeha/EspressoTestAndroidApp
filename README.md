@@ -17,9 +17,9 @@
 
 Enlaces directos a las clases de testing
 
-* [Unit Test(files)](https://github.com/hall9zeha/ExpressoTestAndroidApp/tree/main/app/src/androidTest/java/com/barryzea/couponsapp/CouponUtilsKtTest.kt);
-* [Instrumented Test with Expresso(files)](https://github.com/hall9zeha/ExpressoTestAndroidApp/tree/main/app/src/androidTest/java/com/barryzea/couponsapp/MainActivityCreateTest.kt);
-* [Instrumented created with Android assistant(files)](https://github.com/hall9zeha/ExpressoTestAndroidApp/tree/main/app/src/androidTest/java/com/barryzea/couponsapp/mainModule/view/TestGeneratedWithAssistant.kt);
+* [Unit Test(files)](https://github.com/hall9zeha/ExpressoTestAndroidApp/blob/main/app/src/test/java/com/barryzeha/couponsapp/common/utils/CouponUtilsKtTest.kt);
+* [Instrumented Test with Expresso(files)](https://github.com/hall9zeha/ExpressoTestAndroidApp/blob/main/app/src/androidTest/java/com/barryzeha/couponsapp/MainActivityCreateTest.kt);
+* [Instrumented created with Android assistant(files)](https://github.com/hall9zeha/ExpressoTestAndroidApp/blob/main/app/src/androidTest/java/com/barryzeha/couponsapp/mainModule/view/TestGeneratedWithAssistant.kt);
 
 
 
